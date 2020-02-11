@@ -1,0 +1,18 @@
+mark{
+	color: red;
+	background-color: #ffe680;
+	font-family:"BankGothic Md BT";
+}
+body{
+	background-color: #ffffb3;
+	
+}
+a{
+	color:red;
+}
+td{
+	border: 3px solid red;
+	font-size:175%;
+	font-family:"Agency FB";
+	color:red;
+}
